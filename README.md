@@ -56,9 +56,6 @@ java CheckoutLoja
 Total a pagar: R$ 1350.00
 ```
 
----
 
-## Autor
 
-Mauro Vieira
-Projeto acadêmico em Java.
+

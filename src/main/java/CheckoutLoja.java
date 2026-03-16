@@ -1,5 +1,4 @@
 // Arquivo: CheckoutLoja.java
-import SistemaVendas.CalculadoraFinanceira;
 
 public class CheckoutLoja {
     public static void main(String[] args) {

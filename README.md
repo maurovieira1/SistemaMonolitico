@@ -13,7 +13,7 @@ O sistema calcula o valor final de uma compra com desconto.
 **SistemaVendasAntigo.java**
 
 * Exemplo de código antigo.
-* O cálculo está todo dentro do `main`.
+* O cálculo está todo dentro do main.
 * Não é reutilizável porque mistura dados, cálculo e exibição.
 
 **CalculadoraFinanceira.java**
@@ -23,13 +23,13 @@ O sistema calcula o valor final de uma compra com desconto.
 
 Métodos:
 
-* `calcularPrecoFinal()` → calcula o valor da compra com desconto
-* `formatarMoeda()` → formata o valor em reais
+* calcularPrecoFinal() → calcula o valor da compra com desconto
+* formatarMoeda() → formata o valor em reais
 
 **CheckoutLoja.java**
 
 * Classe principal do sistema.
-* Usa os métodos da `CalculadoraFinanceira`.
+* Usa os métodos da CalculadoraFinanceira.
 
 ---
 
